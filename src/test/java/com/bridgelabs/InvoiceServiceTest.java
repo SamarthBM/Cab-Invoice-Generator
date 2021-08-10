@@ -60,7 +60,7 @@ public class InvoiceServiceTest {
      * Step 3
      * Purpose : Given distance and time,
      *           calculate the aggregate total for all the rides
-     *           finally calculate the average fare per ride
+     *           finally calculate the average fare per ride.
      */
     @Test
     public void givenMultipleRides_ShouldReturnInvoiceSummary() {
