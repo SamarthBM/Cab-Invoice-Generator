@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabs.InvoiceServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-10T10:27:32" hostname="DESKTOP-IB61PHE" time="0.007">
+<testsuite name="com.bridgelabs.InvoiceServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-10T10:35:47" hostname="DESKTOP-IB61PHE" time="0.008">
   <properties/>
-  <testcase name="givenUserID_ShouldReturnInvoiceSummary" classname="com.bridgelabs.InvoiceServiceTest" time="0.007"/>
+  <testcase name="givenUserID_ShouldReturnInvoiceSummary" classname="com.bridgelabs.InvoiceServiceTest" time="0.008"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
